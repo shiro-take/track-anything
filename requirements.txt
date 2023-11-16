@@ -14,3 +14,5 @@ av
 openmim
 tqdm
 psutil
+typing-extensions==4.5.0
+tensorflow-probability==0.22.0
